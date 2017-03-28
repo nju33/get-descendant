@@ -1,6 +1,6 @@
 {
   "name": "get-descendant",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get parent (child element of target)",
   "main": "dist/get-descendant.umd.js",
   "jsnext:main": "dist/get-descendant.es.js",
