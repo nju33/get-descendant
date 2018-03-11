@@ -4,6 +4,9 @@ Please use the [query-parent-selector](https://github.com/nju33/query-parent-sel
 
 ---
 
+<details>
+  <summary>Old README</summary>
+
 # get-descendant
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
@@ -43,3 +46,5 @@ console.log(result); // <div id="expected"/>
 The MIT License (MIT)
 
 Copyright (c) 2017 nju33 <nju33.ki@gmail.com>
+
+</details>
